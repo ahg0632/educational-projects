@@ -1,0 +1,3 @@
+Recreation of the game "Simon" 
+
+Purpose of the project is to use jQuery to manipulate the DOM
