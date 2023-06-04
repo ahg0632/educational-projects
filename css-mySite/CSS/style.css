@@ -1,0 +1,125 @@
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0;
+    text-align: center;
+    font-size: 1em;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #557153 6px___;
+    border-bottom: none;
+    width: 4%;
+}
+
+h1 {
+    color: brown;
+    font-family: 'Allura', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: black;
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.skill-row {
+    margin: 5% auto 200px;
+    width: 50%;
+    text-align: left;
+}
+
+.code-comp {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.code-chili {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+
+.top-container {
+    background-color: #90A17D;
+    margin: 0;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    width: 100px 0px;
+}
+
+.bottom-container {
+    background-color: #90A17D;
+    padding: 50px 0 20px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 4%;
+}
+
+.contact-me {
+    margin: 60px;
+}
+
+.btn {
+    background: #557153;
+    background-image: -webkit-linear-gradient(top, #557153, #7D8F69);
+    background-image: -moz-linear-gradient(top, #557153, #7D8F69);
+    background-image: -ms-linear-gradient(top, #557153, #7D8F69);
+    background-image: -o-linear-gradient(top, #557153, #7D8F69);
+    background-image: linear-gradient(to bottom, #557153, #7D8F69);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #A9AF7E;
+    background-image: -webkit-linear-gradient(top, #A9AF7E, #E6E5A3);
+    background-image: -moz-linear-gradient(top, #A9AF7E, #E6E5A3);
+    background-image: -ms-linear-gradient(top, #A9AF7E, #E6E5A3);
+    background-image: -o-linear-gradient(top, #A9AF7E, #E6E5A3);
+    background-image: linear-gradient(to bottom, #A9AF7E, #E6E5A3);
+    text-decoration: none;
+  }
+
+  .footer-copy {
+    color: white;
+    font-size: .75rem;
+    padding: 20px 0;
+  }
