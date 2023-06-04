@@ -1,0 +1,4 @@
+Small drum game designed to understand and manipulate the DOM
+
+Use of eventlisteners for both keystroke and mouse input
+Passing functions as arguements, dot notation, understanding of objects
